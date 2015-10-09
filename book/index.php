@@ -23,7 +23,7 @@
     <h1>Wypożyczalnia książek</h1>
     <p>Witaj w mojej wypożyczalni książek</p>
 </div>
-jkhykjhkjh
+
 <!-- div okalajacy cala szerokosc strony-->
     <div class="container">
         <div class="row">
